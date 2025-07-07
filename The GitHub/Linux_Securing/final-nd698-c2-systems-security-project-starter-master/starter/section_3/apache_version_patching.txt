@@ -1,0 +1,13 @@
+#Provide the apache version and configuration lines to be changed 
+
+
+# Apache Version
+Server version: Apache/2.4.7 (Ubuntu)
+
+
+# Configuration file change(Hint: the change has to be made in /etc/apache2/conf-enabled/security.conf)
+Server tokens 
+ServerTokens Full ---> ServerTokens Prod  
+ServerSignature On ---> ServerSignature Off
+
+

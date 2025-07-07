@@ -1,0 +1,10 @@
+The three rules for a strong password are:
+
+1. The password string should....
+Contain 12 Chaacters or more
+
+2. The password string should....
+Contain UPPERCASES and lowercases
+
+3. The password string should....
+Contain Digits and Symbols

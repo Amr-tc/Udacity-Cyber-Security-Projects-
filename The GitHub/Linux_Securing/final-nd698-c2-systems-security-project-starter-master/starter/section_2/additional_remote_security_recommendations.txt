@@ -1,0 +1,3 @@
+Regularly monitoring logs for suspicious activity
+Implementing stronger password policies
+Using multi-factor authentication for critical systems

@@ -1,0 +1,22 @@
+#report all the detected filenames and the malware names identified by ClamAV.
+
+Filename		Detection name 
+/home/ubuntu/Downloads/moni.lod: OK
+/home/ubuntu/Downloads/notes.txt: OK
+/home/ubuntu/Downloads/SSH-One: OK
+/home/ubuntu/Downloads/gates.lod: OK
+/home/ubuntu/Downloads/ft32: Unix.Malware.Agent-6774375-0 FOUND
+/home/ubuntu/Downloads/openvasd-aarch64-unknown-linux-gnu: OK
+/home/ubuntu/Downloads/ft64: Unix.Malware.Agent-6774336-0 FOUND
+/home/ubuntu/Downloads/wipefs: Unix.Tool.Miner-6443173-0 FOUND
+/home/ubuntu/Downloads/tmplog: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 8874078
+Engine version: 0.100.3
+Scanned directories: 1
+Scanned files: 9
+Infected files: 3
+Data scanned: 2.42 MB
+Data read: 32.11 MB (ratio 0.08:1)
+Time: 23.289 sec (0 m 23 s)
